@@ -1,0 +1,76 @@
+
+ABC Flowers
+123 Georgia Ave                                  03 / 04 / 2010
+Washington, DC 20059
+
+Payable to : Herold, Will             Pay this amount : 170.10
+123 Main
+Washington, DC 20019
+
+Gross Pay $226.80
+Total Taxes $56.70
+
+******************************************************************
+
+ABC Flowers
+123 Georgia Ave                                  03 / 04 / 2010
+Washington, DC 20059
+
+Payable to : Jackson, Stan            Pay this amount : 320.45
+12 Douglas
+Baltimore, MD 30229
+
+Gross Pay $442.00
+Total Taxes $121.55
+
+******************************************************************
+
+ABC Flowers
+123 Georgia Ave                                  03 / 04 / 2010
+Washington, DC 20059
+
+Payable to : Jerry, Francis           Pay this amount : 597.47
+2345 6th
+Woodbridge, VA 44040
+
+Gross Pay $971.50
+Total Taxes $374.03
+
+******************************************************************
+
+ABC Flowers
+123 Georgia Ave                                  03 / 04 / 2010
+Washington, DC 20059
+
+Payable to : John, Wilson             Pay this amount : 301.60
+12 Georgia
+Washington, DC 20019
+
+Gross Pay $416.00
+Total Taxes $114.40
+
+******************************************************************
+
+ABC Flowers
+123 Georgia Ave                                  03 / 04 / 2010
+Washington, DC 20059
+
+Payable to : Smith, Stanley           Pay this amount : 338.86
+56 D
+Baltimore, MD 30229
+
+Gross Pay $551.00
+Total Taxes $212.14
+
+******************************************************************
+
+ABC Flowers
+123 Georgia Ave                                  03 / 04 / 2010
+Washington, DC 20059
+
+Payable to : Jeffers, Claude          Pay this amount : 1029.23
+66 32nd
+Woodbridge, VA 44040
+
+Gross Pay $1681.20
+Total Taxes $651.97
