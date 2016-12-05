@@ -154,6 +154,9 @@ void class_heading()	// declaring class heading
 		"*****************************************************\n" << endl;
 }
 
+
+// Output result
+
 //******************************************************
 //Harold Lomotey
 //@02732375
