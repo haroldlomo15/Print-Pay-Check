@@ -14,6 +14,7 @@ float compute_federal_tax(float grossPay);
 float compute_state_tax(float fed_tax);
 float compute_city_tax(float state_tax);
 
+//main function
 int main()
 {
 	class_heading();	//calls the class heading
